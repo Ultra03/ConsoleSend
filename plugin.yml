@@ -1,0 +1,9 @@
+name: ConsoleSend
+author: ultraMLG1108
+version: 1.0
+main: net.ultraMLG1108.ConsoleSend.Main
+
+commands:
+  console:
+    description: Send command as console.
+    usage: /console <send> <command>
